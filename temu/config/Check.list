@@ -1,5 +1,8 @@
 IP-CIDR,142.251.215.0/24,no-resolve
 
+DOMAIN-SUFFIX,icanhazip.com
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,icanhazip.com
 DOMAIN-SUFFIX,ippure.com
 DOMAIN-SUFFIX,blackberry.com
 DOMAIN-SUFFIX,yalala.com
