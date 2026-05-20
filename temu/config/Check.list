@@ -1,5 +1,6 @@
 IP-CIDR,142.251.215.0/24,no-resolve
 
+DOMAIN-SUFFIX,ippure.com
 DOMAIN-SUFFIX,blackberry.com
 DOMAIN-SUFFIX,yalala.com
 DOMAIN-SUFFIX,whois.pconline.com.cn
