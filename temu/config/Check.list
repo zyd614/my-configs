@@ -1,5 +1,7 @@
 # IP / DNS / WebRTC / IPv6 泄露检测站
 
+DOMAIN,stun.voip.blackberry.com
+DOMAIN-SUFFIX,blackberry.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,browserleaks.net
