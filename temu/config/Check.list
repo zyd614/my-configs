@@ -46,10 +46,14 @@ DOMAIN-SUFFIX,addr.tools
 
 # WebRTC / STUN 相关
 
+DDOMAIN,stun.voip.blackberry.com
+DOMAIN,stun.l.google.com
+DOMAIN,stun1.l.google.com
+DOMAIN,stun2.l.google.com
+DOMAIN,stun3.l.google.com
+DOMAIN,stun4.l.google.com
 DOMAIN-SUFFIX,l.google.com
-DOMAIN-SUFFIX,stun.l.google.com
-DOMAIN-SUFFIX,stun1.l.google.com
-DOMAIN-SUFFIX,stun2.l.google.com
-DOMAIN-SUFFIX,stun3.l.google.com
-DOMAIN-SUFFIX,stun4.l.google.com
-
+DOMAIN,stun.cloudflare.com
+DOMAIN,stun.services.mozilla.com
+DOMAIN,global.stun.twilio.com
+DOMAIN-SUFFIX,stunprotocol.org
