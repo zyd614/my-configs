@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,ip-score.com
 # IP 查询接口
 
 DOMAIN-SUFFIX,icanhazip.com
+DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ipinfo.io
